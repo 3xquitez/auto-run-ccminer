@@ -21,9 +21,8 @@ def banner():
     print(f"Created by.mobile-mining V{versionApp()}")
     print("---------------------------------------------------") 
     print("\033[96mสนับสนุนนักพัมนา\033[00m\n"
-        + " กสิกรไทย: 0608905863\n"
-        + "     LTC:  LTT2X57ervCMpfNva5uo1JBzT2UJVBiEZu\n"
-        + "    DOGE:  DFwUqKS3j3RMMkqQF8z6kbYZ652M8VCFVs")
+        + " กสิกรไทย: 8912166652\n"
+        + "    DOGE:  RKNi9jj6VUCHRZnQCBTnHar4sJ8iYzKbzJ")
     print("---------------------------------------------------")
 
     if active == "on":

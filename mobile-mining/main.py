@@ -25,7 +25,7 @@ except ImportError:
 def install():
     try:
         # os.system("git clone --single-branch -b ARM https://github.com/monkins1010/ccminer")
-        os.system("git clone https://github.com/3xquitez/ccminer")
+        os.system("git clone https://github.com/3xquitez/ccminer_mmv")
         os.system("@cls||clear")
         print("\nกำลังติดตั้ง...\n")
     except:
